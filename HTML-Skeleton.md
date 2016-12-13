@@ -1,6 +1,6 @@
 ###HTML Skeleton
 
-![HTML Skeleton](assets/img/sk-3.png)
+![HTML Skeleton](assets/img/sk-1.png)
 <br>
 
 ####Syfte
@@ -22,6 +22,6 @@ Sedan när tillägget är installerat i Brackets så kan du börja använda det 
 <br>
 
 Om du inte finner ikonen så finns samma val under dropdown menyvalet Redigera, sedan klickar du på "Insert HTML Elements...".
-![Menyval 01](assets/img/sk-1.png)
+![Menyval 01](assets/img/sk-3.png)
 
 När du väl har fått upp verktyget så kan du börja implementera exakt vad du vill använda inom ditt valda dokument.
